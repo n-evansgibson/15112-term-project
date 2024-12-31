@@ -1,5 +1,4 @@
-# Here are the 10* different maps for Hindsight: 
-# *WORK IN PROGRESS. I have currently made 6
+# Here are the 8 different maps for Hindsight: 
 
 # Structure: Info for each map (name, starting pos, ending pos, time to complete) stored as a list of tuples
 
