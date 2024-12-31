@@ -12,3 +12,5 @@ Arrow keys - forward, backward, turn left, turn right
 Mouse - press pause, use start and stop buttons
 
 _Technical features:_ raycasting, immersive sound
+
+_Demo_: https://www.youtube.com/watch?v=p5GEEIu0Bc0 
